@@ -50,4 +50,4 @@ The game uses a weighted system. Rarer symbols (like **A**) provide much higher 
 ### Running the App
 Start the game by running:
 ```bash
-node index.js
+node project.js
