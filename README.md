@@ -44,3 +44,10 @@ The game uses a weighted system. Rarer symbols (like **A**) provide much higher 
 
 ### Installation
 1. Clone this repository
+2. Navigate to the project folder
+3. Install the required dependency for terminal input
+
+### Running the App
+Start the game by running:
+''' bash
+node index.js
